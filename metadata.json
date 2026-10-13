@@ -1,0 +1,6 @@
+{
+  "name": "SnapSolve",
+  "description": "Math tutor from photos with step-by-step LaTeX solutions, key concept highlights, and adaptive practice problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
